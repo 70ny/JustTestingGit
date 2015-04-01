@@ -2,7 +2,7 @@
 public class PlayWithGit {
 
 	public static void main(String[] args) {
-		System.out.println("Hi World again and again!");
+		System.out.println("Hi World!");
 
 	}
 
